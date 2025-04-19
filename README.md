@@ -54,7 +54,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/WajidAliShah2004/customer-support-assistant.git
    cd customer-support-assistant
    ```
 

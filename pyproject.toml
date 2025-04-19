@@ -2,7 +2,7 @@
 name = "customer-support-assistant"
 version = "0.1.0"
 description = "A FastAPI-based customer support assistant with AI integration"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["wajidalishah2004@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
