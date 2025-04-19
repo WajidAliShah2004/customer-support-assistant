@@ -161,17 +161,3 @@ poetry run mypy .
 3. **Authentication and Authorization**
    - Challenge: Implementing secure JWT-based auth with role-based access
    - Solution: Used FastAPI's dependency injection system with custom dependencies
-
-## Future Improvements
-
-1. Add rate limiting for API endpoints
-2. Implement caching for frequently accessed data
-3. Add more comprehensive error handling
-4. Implement WebSocket support for real-time updates
-5. Add monitoring and logging
-6. Implement unit and integration tests
-7. Add CI/CD pipeline
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
